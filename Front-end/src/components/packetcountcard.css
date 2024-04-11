@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  gap: 100px;
+  margin: 40px;
+}
+.card {
+  border: 1px solid black;
+  height: 100px;
+  width: 200px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.Allcard {
+  border: 1px solid black;
+  height: 100px;
+  width: 250px;
+  border-radius: 20px;
+  position: relative;
+  left: 36%;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
